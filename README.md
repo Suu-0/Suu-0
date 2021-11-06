@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Suu-0
 - 👀 I’m interested in music,art,games and programming 
-- 🌱 I’m currently a beginnerlearning html,css,python,c# and javascript.I still hope to learn more!
+- 🌱 I’m currently a beginner, learning html,css,python,c# and javascript.I still hope to learn more!
 
 <!---
 Suu-0/Suu-0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
